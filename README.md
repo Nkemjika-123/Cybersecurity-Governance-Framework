@@ -42,7 +42,7 @@ The digital transformation of healthcare brings immense benefits but also signif
 
 ## Primary Objectives:
 
-•	Identify & Assess: Discover and evaluate cybersecurity vulnerabilities within the agency's simulated infrastructure.
+**•	Identify & Assess:** Discover and evaluate cybersecurity vulnerabilities within the agency's simulated infrastructure.
 •	Govern & Comply: Develop policies and strategies aligned with NDPR, GDPR, ISO 27001, and NIST CSF to address identified risks.
 •	Implement & Monitor: Create a phased action plan for remediation, ongoing auditing, and continuous improvement to ensure sustained compliance and security.
  

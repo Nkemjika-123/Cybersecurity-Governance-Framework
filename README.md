@@ -154,7 +154,9 @@ Isolate critical databases.
 **Monitoring KPIs:**  
 
 •	% of Critical Vulnerabilities Patched within SLA
+
 •	% of Systems with Encryption Enforced
+
 •	Number of Audit Findings per Cycle
  
 

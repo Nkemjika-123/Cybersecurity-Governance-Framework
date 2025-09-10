@@ -40,7 +40,8 @@ The provided roadmap is designed to systematically elevate the agency's security
 ## 2. Introduction & Project Objectives  
 The digital transformation of healthcare brings immense benefits but also significant risks, especially concerning sensitive patient data. This project simulates a real-world scenario to identify gaps and build a resilient cybersecurity governance structure.
 
-Primary Objectives:
+## Primary Objectives:
+
 •	Identify & Assess: Discover and evaluate cybersecurity vulnerabilities within the agency's simulated infrastructure.
 •	Govern & Comply: Develop policies and strategies aligned with NDPR, GDPR, ISO 27001, and NIST CSF to address identified risks.
 •	Implement & Monitor: Create a phased action plan for remediation, ongoing auditing, and continuous improvement to ensure sustained compliance and security.

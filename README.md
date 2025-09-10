@@ -52,7 +52,21 @@ The digital transformation of healthcare brings immense benefits but also signif
 ---
 
 ## 3. Risk Assessment Summary  
-Key vulnerabilities discovered:  
+
+  A thorough vulnerability assessment was performed, revealing a severely compromised initial state.
+  
+**Key Findings:**
+
+•	Critical Vulnerabilities: Multiple services were configured with critical flaws allowing unauthorized access and full system control.
+	vsFTPd 2.3.4 Backdoor (CVE-2011-2523): Critical (CVSS 9.8) - Allows remote attackers to execute arbitrary code.
+	Samba usermap script Remote Command Execution (RCE (CVE-2007-2447)): Critical (CVSS 10.0) - Allows remote command execution.
+	Apache Tomcat 5.5: Critical - Multiple legacy exploits leading to information disclosure and RCE(Remote Code Execution).
+	MySQL Auth Bypass (CVE-2012-2122): High - Could allow attackers to bypass authentication.
+•	Poor Security Practices: Anonymous FTP logins, unencrypted Telnet services, and weak encryption (SSLv2) were prevalent, violating core principles of confidentiality and integrity.
+•	Compliance Gaps: The state of the systems directly violates multiple articles and controls of NDPR, GDPR, ISO 27001, and NIST CSF, particularly concerning patch management, access control, and data protection.
+
+Top Risk Summary Table:
+
 
 | Vulnerability | CVE ID | CVSS Score | Risk Level | Compliance Impact |
 |--------------|--------|-----------|-----------|-----------------|

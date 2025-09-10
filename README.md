@@ -116,7 +116,7 @@ Key vulnerabilities discovered:
 **KPIs:**  
 - % of Critical Vulns Patched within SLA  
 - % of Systems with Encryption Enforced  
-- # of Audit Findings per Cycle  
+- of Audit Findings per Cycle  
 
 ---
 

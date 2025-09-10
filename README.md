@@ -120,6 +120,8 @@ The digital transformation of healthcare brings immense benefits but also signif
 
 ## 5. Implementation & Auditing Plan  
 
+A phased approach is designed for effective execution with minimal disruption.
+
 ![Cybersecurity Governance Framework](flow-diagram.jpg)
 
 **Phase 1:** Immediate Remediation (Weeks 1–2)  

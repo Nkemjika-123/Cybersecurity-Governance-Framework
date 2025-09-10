@@ -126,21 +126,29 @@ A phased approach is designed for effective execution with minimal disruption.
 
 **Phase 1:** Immediate Remediation (Weeks 1–2)  
 
-**•	Actions:** Disable anonymous FTP and Telnet(use only for testing or validatiion). Apply available patches for vsFTPd, Samba, Apache, and MySQL. Isolate critical databases.
+**•	Actions:** Disable anonymous FTP and Telnet(use only for testing or validatiion). 
+Apply available patches for vsFTPd, Samba, Apache, and MySQL. 
+Isolate critical databases.
 
 **•	Owner:** IT Security Team & System Administrators.
 
 
 **Phase 2:** Control Implementation (Weeks 3–4)  
 
-•	Actions: Enforce password policies and Role Based Access Control(RBAC). Configure TLS for SMTP and web services. Deploy a centralized logging solution (e.g., Splunk/Syslog).
-•	Owner: System Administrators & Compliance Officer.
+**•	Actions:** Enforce password policies and Role Based Access Control(RBAC).
+ Configure TLS for SMTP and web services. 
+ Deploy a centralized logging solution (e.g., Splunk/Syslog).
+  
+**•	Owner:** System Administrators & Compliance Officer.
 
 
 **Phase 3:** Monitoring & Auditing (Ongoing)  
 
-•	Actions: Implement weekly vulnerability scans. Schedule monthly compliance audits against control frameworks. Conduct quarterly penetration tests.
-•	Owner: IT Security Team & Compliance Officer.
+**•	Actions:** Implement weekly vulnerability scans. 
+  Schedule monthly compliance audits against control frameworks. 
+  Conduct quarterly penetration tests.
+
+**•	Owner:** IT Security Team & Compliance Officer.
 
 
 **Monitoring KPIs:**  

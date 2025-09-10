@@ -125,8 +125,10 @@ A phased approach is designed for effective execution with minimal disruption.
 ![Cybersecurity Governance Framework](flow-diagram.jpg)
 
 **Phase 1:** Immediate Remediation (Weeks 1–2)  
-- Disable anonymous FTP, Telnet  
-- Patch vsFTPd, Samba, Apache, MySQL  
+**•	Actions:** Disable anonymous FTP and Telnet(use only for testing or validatiion). Apply available patches for vsFTPd, Samba, Apache, and MySQL. Isolate critical databases.
+
+**•	Owner:** IT Security Team & System Administrators.
+
 
 **Phase 2:** Control Implementation (Weeks 3–4)  
 - Enforce password policy & RBAC  

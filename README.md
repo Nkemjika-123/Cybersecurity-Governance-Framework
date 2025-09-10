@@ -59,7 +59,7 @@ The digital transformation of healthcare brings immense benefits but also signif
 
 **•	Critical Vulnerabilities:** Multiple services were configured with critical flaws allowing unauthorized access and full system control.
 
---vsFTPd 2.3.4 Backdoor (CVE-2011-2523): Critical (CVSS 9.8) - Allows remote attackers to execute arbitrary code.
+-vsFTPd 2.3.4 Backdoor (CVE-2011-2523): Critical (CVSS 9.8) - Allows remote attackers to execute arbitrary code.
  
 **•Samba usermap script Remote Command Execution (RCE (CVE-2007-2447)):** Critical (CVSS 10.0) - Allows remote command execution.
  

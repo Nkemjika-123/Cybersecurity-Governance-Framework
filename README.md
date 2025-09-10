@@ -125,25 +125,30 @@ A phased approach is designed for effective execution with minimal disruption.
 ![Cybersecurity Governance Framework](flow-diagram.jpg)
 
 **Phase 1:** Immediate Remediation (Weeks 1–2)  
+
 **•	Actions:** Disable anonymous FTP and Telnet(use only for testing or validatiion). Apply available patches for vsFTPd, Samba, Apache, and MySQL. Isolate critical databases.
 
 **•	Owner:** IT Security Team & System Administrators.
 
 
 **Phase 2:** Control Implementation (Weeks 3–4)  
-- Enforce password policy & RBAC  
-- Configure TLS for web/SMTP  
-- Deploy Splunk/Syslog  
+
+•	Actions: Enforce password policies and Role Based Access Control(RBAC). Configure TLS for SMTP and web services. Deploy a centralized logging solution (e.g., Splunk/Syslog).
+•	Owner: System Administrators & Compliance Officer.
+
 
 **Phase 3:** Monitoring & Auditing (Ongoing)  
-- Weekly vulnerability scans  
-- Monthly compliance audits  
-- Quarterly penetration tests  
 
-**KPIs:**  
-- % of Critical Vulns Patched within SLA  
-- % of Systems with Encryption Enforced  
-- of Audit Findings per Cycle  
+•	Actions: Implement weekly vulnerability scans. Schedule monthly compliance audits against control frameworks. Conduct quarterly penetration tests.
+•	Owner: IT Security Team & Compliance Officer.
+
+
+**Monitoring KPIs:**  
+
+•	% of Critical Vulnerabilities Patched within SLA
+•	% of Systems with Encryption Enforced
+•	Number of Audit Findings per Cycle
+ 
 
 ---
 
@@ -161,16 +166,8 @@ A phased approach is designed for effective execution with minimal disruption.
 ---
 
 ## 7. Conclusion  
-This framework provides a **clear roadmap** to move the agency from a **high-risk state** to a **resilient, compliant, and secure infrastructure**.  
-Adopting these measures will:  
-- Reduce attack surface  
-- Protect patient data  
-- Demonstrate compliance with NDPR, GDPR, ISO 27001, and NIST CSF  
 
-**Next Steps:**  
-- Immediate execution of Phase 1 remediation  
-- Continuous monitoring & quarterly governance board reporting  
-- Building a culture of security and compliance  
+The simulated environment exposed critical risks that are unfortunately common in real-world scenarios. This report provides a clear and actionable path going forward. By diligently executing the outlined implementation plan and adhering to the proposed governance policies, the Nigerian Government Healthcare Agency can significantly reduce its attack surface, protect the sensitive health data of its citizens, and achieve demonstrable compliance with stringent national and international regulations. Continuous vigilance, executive oversight, and a culture of security are paramount for long-term success.
 
 ---
 

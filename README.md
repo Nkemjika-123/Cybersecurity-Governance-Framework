@@ -147,5 +147,5 @@ Adopting these measures will:
 
 ---
 
-🔗 **Author:** [Nkemjika Omazi](https://www.linkedin.com/in/nkemjika-omazi/)
+🔗 **LinkedIn:** [Connect with me here](https://www.linkedin.com/in/nkemjika-omazi/)
 📧 **Contact:** nkem.the.maths.tutor@gmail.com  

@@ -120,6 +120,8 @@ The digital transformation of healthcare brings immense benefits but also signif
 
 ## 5. Implementation & Auditing Plan  
 
+![Cybersecurity Governance Framework](flow-diagram.JPG)
+
 **Phase 1:** Immediate Remediation (Weeks 1–2)  
 - Disable anonymous FTP, Telnet  
 - Patch vsFTPd, Samba, Apache, MySQL  

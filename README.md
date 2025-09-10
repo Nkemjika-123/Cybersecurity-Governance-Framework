@@ -27,7 +27,9 @@ A Comprehensive Framework for a Nigerian Government Healthcare Agency
 This report presents a complete cybersecurity governance and compliance strategy for a simulated Nigerian government healthcare agency.  
 The initial risk assessment, conducted on a vulnerable Metasploitable 2 server, revealed a critical security posture with multiple high-risk vulnerabilities, including remote code execution flaws in key services (vsFTPd, Samba, Apache Tomcat) and weak authentication mechanisms.
 The findings indicate a high risk of data breach, system compromise, and significant non-compliance with major regulatory frameworks including the Nigeria Data Protection Regulation (NDPR 2019), the General Data Protection Regulation (GDPR), ISO 27001:2022, and the NIST Cybersecurity Framework (CSF).
+
 This report consolidates my response into a three-pillar approach: 
+
 (1) Immediate technical remediation of critical vulnerabilities
 (2) Establishment of robust governance policies for risk management, data security and auditing and 
 (3) A detailed implementation and continuous monitoring plan. 

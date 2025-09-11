@@ -91,6 +91,8 @@ The digital transformation of healthcare brings immense benefits but also signif
 
 ## 4. Governance Framework Policies  
 
+To address the root causes of the vulnerabilities, three core policies were established to provide governance and structure.
+
 ### 4.1 Risk Management Policy  
 - **Purpose:** Provide a structured framework for identifying and treating risks.  
 - **Key Provisions:**  
